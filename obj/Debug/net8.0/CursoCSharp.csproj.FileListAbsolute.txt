@@ -1,0 +1,14 @@
+/home/isabela/PessoalDevelop/CursoCSharp/bin/Debug/net8.0/CursoCSharp
+/home/isabela/PessoalDevelop/CursoCSharp/bin/Debug/net8.0/CursoCSharp.deps.json
+/home/isabela/PessoalDevelop/CursoCSharp/bin/Debug/net8.0/CursoCSharp.runtimeconfig.json
+/home/isabela/PessoalDevelop/CursoCSharp/bin/Debug/net8.0/CursoCSharp.dll
+/home/isabela/PessoalDevelop/CursoCSharp/bin/Debug/net8.0/CursoCSharp.pdb
+/home/isabela/PessoalDevelop/CursoCSharp/obj/Debug/net8.0/CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/isabela/PessoalDevelop/CursoCSharp/obj/Debug/net8.0/CursoCSharp.AssemblyInfoInputs.cache
+/home/isabela/PessoalDevelop/CursoCSharp/obj/Debug/net8.0/CursoCSharp.AssemblyInfo.cs
+/home/isabela/PessoalDevelop/CursoCSharp/obj/Debug/net8.0/CursoCSharp.csproj.CoreCompileInputs.cache
+/home/isabela/PessoalDevelop/CursoCSharp/obj/Debug/net8.0/CursoCSharp.dll
+/home/isabela/PessoalDevelop/CursoCSharp/obj/Debug/net8.0/refint/CursoCSharp.dll
+/home/isabela/PessoalDevelop/CursoCSharp/obj/Debug/net8.0/CursoCSharp.pdb
+/home/isabela/PessoalDevelop/CursoCSharp/obj/Debug/net8.0/CursoCSharp.genruntimeconfig.cache
+/home/isabela/PessoalDevelop/CursoCSharp/obj/Debug/net8.0/ref/CursoCSharp.dll
